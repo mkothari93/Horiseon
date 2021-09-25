@@ -8,6 +8,7 @@ Horiseon is a marketing agency that helps businesses market their products and s
 * CSS
 
 ## Website
+https://mkothari93.github.io/horiseon/
 
 ## Contribution
 Made with ❤️ by Monika Kothari
